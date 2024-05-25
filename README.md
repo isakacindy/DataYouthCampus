@@ -2,4 +2,4 @@
 
 2023 데이터청년캠퍼스 상명대 과정 2분반 1조 / *유상현 김윤화 김민정 서기현 정철희 최현서 한고은*
 
-![대문사진](https://user-images.githubusercontent.com/80621384/131204004-52bf70e7-863c-48b4-9390-de87ac98a954.jpg)
+![그림](https://github.com/isakacindy/DataYouthCampus/assets/94227598/cd466dc0-f9b0-411c-b9c5-b76f733ac755)
